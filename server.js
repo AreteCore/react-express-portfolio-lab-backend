@@ -9,6 +9,9 @@ const about = require("./about.json")
 //app object so we can use express
 const app = express()
 
+//dotenv
+require('dotenv').config();
+
 //middleware
 app.use(cors())
 
@@ -23,6 +26,12 @@ app.get("/projects", (req,res) => {
     //send projects via json
     res.json(projects)
 })
+
+// route for retrieving about info
+app.get("/about", (req, res) => {
+    // send projects via JSON
+    res.json(about);
+  });
 
 // route for retreiving about info 
 const PORT = process.env.PORT || 4001
