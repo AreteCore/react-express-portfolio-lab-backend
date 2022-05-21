@@ -25,7 +25,7 @@ app.get("/projects", (req,res) => {
 })
 
 // route for retreiving about info 
-const PORT = process.env.PORT || 4000
+const PORT = process.env.PORT || 4001
 
 //listener
 app.listen(PORT, () => console.log(`listening: ${PORT}`))
