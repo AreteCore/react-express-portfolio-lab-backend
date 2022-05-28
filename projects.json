@@ -1,6 +1,6 @@
 [
     {
-      "name": "FGSFDS Notses",
+      "name": "FGSFDS Notes",
       "live": "https://fgsfds-notes.herokuapp.com/",
       "git": "https://github.com/richclarke0/fgsfds-notes",
       "image": "https://github.com/richclarke0/fgsfds-notes/blob/main/img/masonry1.png"
@@ -12,9 +12,9 @@
       "image": "https://github.com/richclarke0/react-star-wars/raw/main/img/starwarsships.png"
     },
     {
-      "name": "React Star-Wars",
-      "live": "#",
-      "git": "https://github.com/richclarke0/react-star-wars",
-      "image": "https://github.com/richclarke0/react-star-wars/raw/main/img/starwarsships.png"
+      "name": "Early portfolio site",
+      "live": "richclarke0.github.io",
+      "git": "https://github.com/richclarke0/richclarke0.github.io",
+      "image": "https://github.com/richclarke0/richclarke0.github.io/raw/main/img/main.png"
     }
   ]
