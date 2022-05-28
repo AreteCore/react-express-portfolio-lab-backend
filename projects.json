@@ -1,14 +1,20 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "FGSFDS Notses",
+      "live": "https://fgsfds-notes.herokuapp.com/",
+      "git": "https://github.com/richclarke0/fgsfds-notes",
+      "image": "https://github.com/richclarke0/fgsfds-notes/blob/main/img/masonry1.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "React Star-Wars",
+      "live": "#",
+      "git": "https://github.com/richclarke0/react-star-wars",
+      "image": "https://github.com/richclarke0/react-star-wars/raw/main/img/starwarsships.png"
+    },
+    {
+      "name": "React Star-Wars",
+      "live": "#",
+      "git": "https://github.com/richclarke0/react-star-wars",
+      "image": "https://github.com/richclarke0/react-star-wars/raw/main/img/starwarsships.png"
     }
   ]
